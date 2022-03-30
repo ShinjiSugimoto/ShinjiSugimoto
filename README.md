@@ -1,4 +1,4 @@
-I'm a flutter freak. Love [flutter.dev](https://flutter.dev)
+I'm a flutter freak. Love [flutter](https://flutter.dev).
 
 Keywords.
 
